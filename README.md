@@ -1,5 +1,13 @@
-> # Employee Management System using [![](https://img.icons8.com/color/2x/c-programming.png)](https://img.icons8.com/color/2x/c-programming.png)
+> # Employee Management System 
 
+------------
+
+
+### Technologies Used :
+#### [![](https://img.icons8.com/color/50/000000/c-programming.png)](https://img.icons8.com/color/50/000000/c-programming.png)
+
+
+------------
 
 
 The project employee management system using C manage employee records using file system. this help to register employee, display all list of employee in screen, search a  particular employee record, modify and delete information of an employee. Best part of this project is it uses graphic for more look like real software designed in other higher level programming language.
