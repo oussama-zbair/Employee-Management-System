@@ -1,8 +1,4 @@
-/*
-Application: Employee Management System
-Coded By: Krishna Keshab Chaudhary
-Copyrite at: BESTENGINEERINGPROJECTS.COM
-*/
+
 #include<graphics.h>
 #include<stdio.h>
 #include<conio.h>
