@@ -20,6 +20,5 @@ Then execute the code:
 ./employee_management
 ```
 
-Please note that this code is for learning and development purpose only and has not been tested in production environment. It's not recommended to use it for commercial use without proper testing and modification.
 
 Feel free to clone or fork this repository and use it as a starting point for your own employee management system. If you have any questions or comments, please open an issue, and we will do our best to assist you.
